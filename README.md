@@ -68,18 +68,8 @@ Incoming BLE packets will appear in the console.
 - Haptic feedback support
 
 ---
-
-## 🔗 Companion App
-
-Works with:
-
-👉 **VescNavigator Android App**
-
-(Separate repository)
-
----
-
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 Ruggero Cadamuro  
 Innovative EV Solutions
+
